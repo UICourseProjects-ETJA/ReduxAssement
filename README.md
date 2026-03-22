@@ -1,13 +1,13 @@
-## Redux assessment 
+# Redux assessment 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 The starter code was cloned from [Doggiegram](https://github.com/Thinkful-Ed/starter-redux-assessment).
 
-# short-answer question
+### short-answer question
 Describe the biggest challenge you faced when implementing the Favorite Like/Toggle logic and explain the approach you used to solve it.
   > The biggest challenge for implementing the Like/toggle logic was remembering the syntax for conditional rendering. Looking through previous lessions and othe assignments I had completed helped me figure out what I was missing
 
-# Post Submission Reflection
+### Post Submission Reflection
 1. Explain how you designed and implemented the Redux store for this project. What state did you choose to centralize, and why?
    > In this project, my redux store contained Photo, Store and Search state. I chose to centrlize the state for these three objects as it
    made the data that each object represented easily accessible to each other across components while minimizing the risk of confusion/bugs.
@@ -19,7 +19,7 @@ Describe the biggest challenge you faced when implementing the Favorite Like/Tog
 4. AI use disclosure
    > no ai tools (ChatGPT, Copilot, Claude, DeepSeek, Gemini, etc.) were used in the completion of this assesment 
 
-## Available scripts
+# Available scripts
 
 In the project directory, you can run the following commands:
 
