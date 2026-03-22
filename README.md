@@ -5,7 +5,7 @@ The starter code was cloned from [Doggiegram](https://github.com/Thinkful-Ed/sta
 
 # short-answer question
 Describe the biggest challenge you faced when implementing the Favorite Like/Toggle logic and explain the approach you used to solve it.
-  > The biggest challenge for implementing the Like/toggle logic was remembering the syntax for conditional renderig. Looking through previous lessions and othe assignments I had completed helped me figure out what I was missing
+  > The biggest challenge for implementing the Like/toggle logic was remembering the syntax for conditional rendering. Looking through previous lessions and othe assignments I had completed helped me figure out what I was missing
 
 # Post Submission Reflection
 1. Explain how you designed and implemented the Redux store for this project. What state did you choose to centralize, and why?
